@@ -12,8 +12,9 @@ Create a program that will:
 ## Notes:
 1. Ciphertext == Encrypted text
 2. Cleartext == Non-encrypted text 
-3. You will need to use the built in chr() and ord() functions
-4. Save each version of your program at each level as a seperate file so you have a clear veiw of your progress. 
+3. Learn about the ASCII table
+4. You will need to use the built in chr() and ord() functions
+5. Save each version of your program at each level as a seperate file so you have a clear veiw of your progress. 
 
 # Level 2 
 
@@ -27,7 +28,7 @@ Add the functionality:
 1. Do not import anything
 
 ## Notes:
-1. This program will need to let the user enter both cleartext or ciphertext 
+1. This program will need to let the user choose to enter cleartext or ciphertext 
 
 # Level 3
 
