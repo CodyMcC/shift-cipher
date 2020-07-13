@@ -1,4 +1,4 @@
-# shift-cipher
+# Kim's shift-cipher project
 
 # Level 1
 Create a program that will:
