@@ -2,6 +2,8 @@
 
 It's understandable that you will use google for this project. Your goal should be to google the smallest piece necessary and not find full examples of a shift cipher to copy. The more you think through how to solve the tasks on your own and just use google for things like understanding the syntax, the more you will gain from this project. 
 
+You are making this program for other people to use. You want the instructions to be clear and easy to understand. You want the UI to be consistant so your users will enjoy using it and not be frustrated with it. 
+
 # Level 1
 ## Goals 
 1. Take lower case text from a user
@@ -47,11 +49,25 @@ It's understandable that you will use google for this project. Your goal should 
 # Level 4
 
 ## Goals
-1. 
+1. Allow the user to choose the number to shift by
+2. Print out the cipher text in blocks of 5 (abcdefghijklmnopqr -> DEFGH IJKLMN OPQRS TU)
 
 ## Rules:
 1. Do not import anything
 
 
 # Level 5
+## Goals
+1. Don't let the user see any traceback errors. Think about all the mistakes a user could make. Rather than letting your program error out, just print a friendly error message. Let them try again or start the program over again.
+
+## Rules:
+1. Do not import anything
+
+## Notes
+1. Its never good to dump a huge error with tracebacks to the screen. As a programmer, you know what it means and what to look for, but a user will not have a clue what to do. So any time there could be an issue, catch the error in a try...except block and handle the issue. 
+2. An example of this could be if you ask the user for how many places they want to shift the letters and they insted type 'pizza'. If your program is expecting a number, it might crash. 
+
+# Level 6
+## Goals
+1. 
 
