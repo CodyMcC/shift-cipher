@@ -2,7 +2,7 @@
 
 It's understandable that you will use google for this project. Your goal should be to google the smallest piece necessary and not find full examples of a shift cipher to copy. The more you think through how to solve the tasks on your own and just use google for things like understanding the syntax, the more you will gain from this project. 
 
-You are making this program for other people to use. You want the instructions to be clear and easy to understand. You want the UI to be consistant so your users will enjoy using it and not be frustrated with it. 
+You are making this program for other people to use. You want the instructions and help messages to be clear and easy to understand. You want the UI to be consistant so your users will enjoy using it and not be frustrated with it. 
 
 # Level 1
 ## Goals 
@@ -58,7 +58,7 @@ You are making this program for other people to use. You want the instructions t
 
 # Level 5
 ## Goals
-1. Don't let the user see any traceback errors. Think about all the mistakes a user could make. Rather than letting your program error out, just print a friendly error message. Let them try again or start the program over again.
+1. Don't let the user see any traceback errors. Think about all the mistakes a user could make. Rather than letting your program error out, just print a friendly error message. Don't have the program exit, let them try their input again.
 
 ## Rules:
 1. Do not import anything
@@ -69,5 +69,8 @@ You are making this program for other people to use. You want the instructions t
 
 # Level 6
 ## Goals
-1. 
+1. Allow the user to type 'help' at any time. You should then print some useful information. What is the program currently asking for. Is the program set to encrypt or decrypt? 
+2. Allow the user to type 'q' or 'quit' at any time and exit the program. 
 
+## Rules:
+1. Do not import anything
