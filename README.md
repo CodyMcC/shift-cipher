@@ -1,7 +1,9 @@
 # Kim's shift-cipher project
 
+It's understandable that you will use google for this project. Your goal should be to google the smallest piece necessary and not find full examples of a shift cipher to copy. The more you think through how to solve the tasks on your own and just use google for things like understanding the syntax, the more you will gain from this project. 
+
 # Level 1
-Create a program that will:
+## Goals 
 1. Take lower case text from a user
 2. Apply a caesar chipher (shift 3)
 3. Print the encoded text
@@ -19,7 +21,7 @@ Create a program that will:
 
 # Level 2 
 
-Add the functionality:
+## Goals
 
 1. Accept user input that contains text encrypted with the caesar cipher (shift 3)
 2. Decode the text
@@ -33,6 +35,23 @@ Add the functionality:
 
 # Level 3
 
+## Goals
+1. Accept uppercase and lowercase cleartext and ciphertext
+2. The output will always be uppercase (abc -> DEF)
+3. Ignore punctuation (A!B?C -> DEF)
+4. Pass numbers through unchanged  (ABC123 -> DEF123)
+
 ## Rules:
 1. Do not import anything
+
+# Level 4
+
+## Goals
+1. 
+
+## Rules:
+1. Do not import anything
+
+
+# Level 5
 
