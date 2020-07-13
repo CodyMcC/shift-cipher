@@ -11,7 +11,7 @@ Create a program that will:
 
 ## Notes:
 1. Ciphertext == Encrypted text
-2. Cleartext == Not encrypted text 
+2. Cleartext == Non-encrypted text 
 3. You will need to use the built in chr() and ord() functions
 4. Save each version of your program at each level as a seperate file so you have a clear veiw of your progress. 
 
