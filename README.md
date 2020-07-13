@@ -3,7 +3,7 @@
 # Level 1
 Create a program that will:
 1. Take lower case text from a user
-2. Apply a cassar chipher (shift 3)
+2. Apply a caesar chipher (shift 3)
 3. Print the encoded text
 
 ## Rules: 
