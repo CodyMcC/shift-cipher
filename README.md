@@ -13,6 +13,7 @@ Create a program that will:
 1. Ciphertext == Encrypted text
 2. Cleartext == Non-encrypted text 
 3. Learn about the ASCII table
+4. Learn about the basic Caesar cipher
 4. You will need to use the built in chr() and ord() functions
 5. Save each version of your program at each level as a seperate file so you have a clear veiw of your progress. 
 
