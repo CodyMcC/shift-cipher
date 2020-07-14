@@ -22,9 +22,9 @@ You are making this program for other people to use. You want the instructions a
 5. Save each version of your program at each level as a seperate file so you have a clear veiw of your progress. 
 
 ## Test conditions
-1. Encrypt
-input -> abc
-output -> def
+1. Encrypt  
+input -> abc  
+output -> def  
 
 # Level 2 
 
@@ -41,14 +41,14 @@ output -> def
 1. This program will need to let the user choose to enter cleartext or ciphertext 
 
 ## Test conditions
-1. Encrypt
-User chooses to option encrypt
-input -> abc
-output -> def
-2. Decrypt
-User chooses to option dencrypt
-input -> def
-output -> abc
+1. Encrypt  
+User chooses to option encrypt  
+input -> abc  
+output -> def  
+2. Decrypt  
+User chooses to option dencrypt  
+input -> def  
+output -> abc  
 
 # Level 3
 
