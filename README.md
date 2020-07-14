@@ -65,7 +65,7 @@ output -> abc
 
 ## Goals
 1. Allow the user to choose the number to shift by
-2. Print out the cipher text in blocks of 5 (abcdefghijklmnopqr -> DEFGH IJKLMN OPQRS TU)
+2. Print out the cipher text in blocks of 5 characters seperated by a space (abcdefghijklmnopqr -> DEFGH IJKLMN OPQRS TU)
 
 ## Rules:
 1. Do not import anything
