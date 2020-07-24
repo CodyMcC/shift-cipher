@@ -95,6 +95,7 @@ output -> abc
 1. Use color in your output to make the whole program more user freindly. See example below:
 
 ![alt text](example_color.png "Example Color output")
+![alt text](example_color2.png "Example Color output")
 
 ## Rules:
 1. Do not import anything
