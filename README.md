@@ -89,3 +89,12 @@ output -> abc
 
 ## Rules:
 1. Do not import anything
+
+# Level 7
+## Goal
+1. Use color in your output to make the whole program more user freindly 
+
+
+
+## Rules:
+1. Do not import anything
