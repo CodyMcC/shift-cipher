@@ -84,9 +84,11 @@ output -> abc
 
 # Level 6
 ## Goals
-1. Allow the user to type 'help' at any time. You should then print some useful information. What is the program currently asking for? Is the program set to encrypt or decrypt? 
-2. Allow the user to type 'q' or 'quit' at any time and exit the program. 
+1. Allow the user to type 'help' at any time. You should then print some useful information. What is the program currently asking for? Is the program set to encrypt or decrypt? See example below:
 ![alt text](src/example_help.png "Example Color output")
+2. Allow the user to type 'q' or 'quit' at any time and exit the program. See example below:
+![alt text](src/example_quit.png "Example Color output")
+
 
 
 ## Rules:
