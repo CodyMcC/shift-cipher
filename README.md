@@ -92,10 +92,9 @@ output -> abc
 
 # Level 7
 ## Goal
-1. Use color in your output to make the whole program more user freindly 
+1. Use color in your output to make the whole program more user freindly. See example below:
 
-![alt text](color_example.png "Example Color output")
-![alt text](v2/supporting_files/ledwall.gif "ledwall in action")
+![alt text](example_color.png "Example Color output")
 
 ## Rules:
 1. Do not import anything
