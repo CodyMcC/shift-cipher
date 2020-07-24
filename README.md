@@ -94,7 +94,7 @@ output -> abc
 ## Goal
 1. Use color in your output to make the whole program more user freindly 
 
-
+![alt text](color_example.png "Example Color output")
 
 ## Rules:
 1. Do not import anything
