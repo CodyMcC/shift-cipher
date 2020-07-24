@@ -95,6 +95,7 @@ output -> abc
 1. Use color in your output to make the whole program more user freindly 
 
 ![alt text](color_example.png "Example Color output")
+![alt text](v2/supporting_files/ledwall.gif "ledwall in action")
 
 ## Rules:
 1. Do not import anything
