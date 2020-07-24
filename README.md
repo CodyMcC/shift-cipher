@@ -84,18 +84,23 @@ output -> abc
 
 # Level 6
 ## Goals
-1. Allow the user to type 'help' at any time. You should then print some useful information. What is the program currently asking for. Is the program set to encrypt or decrypt? 
+1. Allow the user to type 'help' at any time. You should then print some useful information. What is the program currently asking for? Is the program set to encrypt or decrypt? 
 2. Allow the user to type 'q' or 'quit' at any time and exit the program. 
 
 ## Rules:
 1. Do not import anything
+
+## Notes
+1. If the user types 'help', the program should then continue, not exit. 
 
 # Level 7
 ## Goal
 1. Use color in your output to make the whole program more user freindly. See example below:
 
 ![alt text](example_color.png "Example Color output")
-![alt text](example_color2.png "Example Color output")
+### Red is a great color to show any errors
+
+![alt text](example_color3.png "Example Color output")
 
 ## Rules:
 1. Do not import anything
